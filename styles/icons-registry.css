@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'favorite';
+  src: url('../icons/favorite.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'circle';
+  src: url('../icons/circle.woff2') format('woff2');
+}

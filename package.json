@@ -1,0 +1,24 @@
+{
+  "name": "@cortex-ui/icons",
+  "version": "0.0.1",
+  "description": "Cortex-UI Icons Use with Cortex Icon Component",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Punyarit/cortex-ui-icons.git"
+  },
+  "keywords": [
+    "Cortex-UI Icons"
+  ],
+  "author": "Punyarit",
+  "license": "H Lab Co., Ltd.",
+  "bugs": {
+    "url": "https://github.com/Punyarit/cortex-ui-icons/issues"
+  },
+  "homepage": "https://github.com/Punyarit/cortex-ui-icons#readme",
+  "files": [
+    "icons/*",
+    "styles/*"
+  ]
+}
