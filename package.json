@@ -1,6 +1,6 @@
 {
   "name": "@cortex-ui/icons",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Cortex-UI Icons Use with Cortex Icon Component",
   "main": "index.js",
   "scripts": {},
