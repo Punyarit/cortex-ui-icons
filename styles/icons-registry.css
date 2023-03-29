@@ -5659,6 +5659,14 @@
   src: url('../icons/solid/wrap-text.woff2') format('woff2');
 }
 @font-face {
+  font-family: 'angle-left-u';
+  src: url('../icons/u/angle-left.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'angle-right-u';
+  src: url('../icons/u/angle-right.woff2') format('woff2');
+}
+@font-face {
   font-family: 'cloud-sun-u';
   src: url('../icons/u/cloud-sun.woff2') format('woff2');
 }
